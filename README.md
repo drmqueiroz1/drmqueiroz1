@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:drmqueiroz1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:drmqueiroz1@gmail.com)
 
-🤟🏻 Atualmente estudo no OnebitCode;
+🤟🏻 Atualmente sou aluno OnebitCode;
 
-✍🏻 Atualmente estou aprendendo TypeScrip;
+✍🏻 Atualmente estou aprendendo JavaScript (Programação Orientada a Objetos);
 
 🏃🏻‍♂️ Estou buscando uma oportunidade como Desenvolvedor Junior;
 

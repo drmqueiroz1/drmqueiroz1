@@ -7,27 +7,31 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:drmqueiroz1@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:drmqueiroz1@gmail.com)
 
-🤟🏻 Atualmente sou aluno OnebitCode;
+🤟🏻 Atualmente estudo no OnebitCode;
 
-✍🏻 Atualmente estou aprendendo JavaScript (Programação Orientada a Objetos);
+✍🏻 Atualmente estou aprendendo JavaScript (Programação Orientada a Objeto);
 
-🏃🏻‍♂️ Estou buscando uma oportunidade como Desenvolvedor Junior;
+🏃🏻‍♂️ Estou em busca uma oportunidade como Desenvolvedor Junior;
 
-📧 Entre em contato comigo: dmqueiroz1@gmail.com ;
 
-### 🚀 Linguagens e Tecnologias
+
+📧 Entre em contato comigo: drmqueiroz1@gmail.com ;
+
+
+
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -42,16 +46,36 @@
 />
 <img 
     align="left" 
+    alt="npm"
+    title="npm" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"           
+/>
+<img 
+    align="left" 
+    alt="nodejs"
+    title="nodejs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<br>
-<br>
-### 📊 Estatísticas
+/>          
+          
 
+<br>
+<br>
+
+### 📈 Estatísticas
+
+<br>
 <p>
   <img 
     align="left" 
@@ -60,16 +84,14 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=drmqueiroz1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+  
+  
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmqueiroz1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
- 
-
-
-      
-

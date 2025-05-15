@@ -1,5 +1,6 @@
 ## 👋🏻 Olá,tudo bem!"? Eu sou Marcos Queiroz 👋🏻
 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/drmqueiroz1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-luis-d-bb6083356?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7xj3gHQ9Q2OwSimOQJAD3A%3D%3D)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/drmqueiroz13/)
@@ -19,8 +20,8 @@
 
 
 
-###  Linguagens e Tecnologias
-
+### 📖 Linguagens e Tecnologias
+<br>
 <img 
     align="left" 
     alt="HTML"
@@ -82,7 +83,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=drmqueiroz1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=drmqueiroz1&show_icons=true&theme=highcontrast&include_all_commits&locale=pt-br"
   />
   
   
@@ -91,7 +92,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmqueiroz1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmqueiroz1&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

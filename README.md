@@ -15,7 +15,7 @@
 
 📧 Entre em contato comigo: dmqueiroz1@gmail.com ;
 
-###  Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias
 
 <img 
     align="left" 

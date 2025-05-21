@@ -10,7 +10,7 @@
 
 🤟🏻 Atualmente estudo no OnebitCode;
 
-✍🏻 Atualmente estou aprendendo JavaScript (Programação Orientada a Objeto);
+✍🏻 Atualmente estou aprendendo JavaScript;
 
 🏃🏻‍♂️ Estou em busca uma oportunidade como Desenvolvedor Junior;
 

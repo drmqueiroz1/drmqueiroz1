@@ -49,6 +49,8 @@ No back-end:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=drmqueiroz1&show_icons=true&theme=dark&include_all_commits&locale=pt-br)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drmqueiroz1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9)
 
+<hr>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drmqueiroz1/drmqueiroz1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drmqueiroz1/drmqueiroz1/output/pacman-contribution-graph.svg">

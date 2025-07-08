@@ -2,7 +2,7 @@
 
 Eu sou Marcos, desenvolvedor web full-stack de São Gonçalo, Rio de Janeiro. Gosto de programação e meu objetivo é criar sites e aplicativos incríveis que resolvam problemas do mundo real e que tenham uma ótima aparência em qualquer dispositivo. Atualmente, sou aluno da OneBitCode, onde estou concluindo o curso de desenvolvedor full-stack e aperfeiçoando meus conhecimentos.
 
-Atualmente estou aberto para novos projetos, então você pode entrar em contato comigo através [WhatsApp](https://wa.me/5521966386547), [Telegram](https://t.me/drmqueiroz1) ou [email](mailto:drmqueiroz1@gmail.com)
+Atualmente estou aberto para novos projetos, então você pode entrar em contato comigo através do meu [WhatsApp](https://wa.me/5521966386547), [Telegram](https://t.me/drmqueiroz1) ou [email](mailto:drmqueiroz1@gmail.com)
 
 <a href="#">
 <img src="https://media.tenor.com/vYxbKN-RXowAAAAM/enbiyaemre-samurai-jack.gif" title="samurai jack" width="355" height="243" align="right" alt="Samurai Jack">

@@ -10,7 +10,7 @@ Atualmente estou aberto para novos projetos, então você pode entrar em contato
 
 ### Algumas ferramentas que gosto de usar...
 
-No front-end:
+* Front-end:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
@@ -25,7 +25,7 @@ No front-end:
 <!-- ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330) -->
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D) -->
 
-No back-end:
+* Back-end:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
@@ -36,9 +36,9 @@ No back-end:
 <!-- ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4) -->
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-232323?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff) -->
 
- <!-- E em geral: -->
-<!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff) -->
-<!-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000) -->
+  * Geral: 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 <!-- ![Adobe XD](https://img.shields.io/badge/-AdobeXD-ff75f7?style=flat-square&labelColor=ff75f7&logo=adobexd&logoColor=000000) -->
 <!-- ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&labelColor=5C5543&logo=gimp&logoColor=ffffff) -->
 <!-- ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&labelColor=000000&logo=inkscape&logoColor=ffffff) -->

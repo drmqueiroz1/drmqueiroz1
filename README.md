@@ -16,7 +16,7 @@ Atualmente estou aberto para novos projetos, então você pode entrar em contato
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff) -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
@@ -36,7 +36,8 @@ Atualmente estou aberto para novos projetos, então você pode entrar em contato
 <!-- ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4) -->
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-232323?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff) -->
 
-  * Geral: 
+  * Geral:
+    
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 <!-- ![Adobe XD](https://img.shields.io/badge/-AdobeXD-ff75f7?style=flat-square&labelColor=ff75f7&logo=adobexd&logoColor=000000) -->

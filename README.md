@@ -4,7 +4,8 @@ Eu sou Marcos, desenvolvedor web full-stack de São Gonçalo, Rio de Janeiro. Go
 
 Atualmente estou aberto para novos projetos, então você pode entrar em contato comigo através do meu [WhatsApp](https://wa.me/5521966386547), [Telegram](https://t.me/drmqueiroz1) ou [email](mailto:drmqueiroz1@gmail.com)
 
-<a href="#">
+<a href="#">![giphy](https://github.com/user-attachments/assets/b16360c9-4b71-4225-8fac-873d67651c4b)
+
 <img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM2bmVtaXIyN2x0OTh3N3loNGF3bjlpOTl1Z21hYWdnYnB3bTE3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7523jzGysBX84xpK/giphy.gif)" title="Samurai jack" width="355" height="243" align="right" alt="Samurai Jack">
 </a>
 
